@@ -1,0 +1,304 @@
+{
+  "filmes": [
+    {
+      "id": "1001",
+      "favorito": true,
+      "nome": "O Iluminado",
+      "genero": "Terror"
+    },
+    {
+      "id": "1002",
+      "favorito": true,
+      "nome": "Forrest Gump: O Contador de Histórias",
+      "genero": "Drama"
+    },
+    {
+      "id": "1003",
+      "favorito": true,
+      "nome": "Matrix",
+      "genero": "Ficção Científica"
+    },
+    {
+      "id": "1004",
+      "favorito": true,
+      "nome": "Batman: O Cavaleiro das Trevas",
+      "genero": "Ação"
+    },
+    {
+      "id": "1005",
+      "favorito": true,
+      "nome": "Alien: Romulus",
+      "genero": "Ficção Científica"
+    },
+    {
+      "id": "1006",
+      "favorito": true,
+      "nome": "Pulp Fiction: Tempo de Violência",
+      "genero": "Crime"
+    },
+    {
+      "id": "1007",
+      "favorito": false,
+      "nome": "Clube da Luta",
+      "genero": "Drama"
+    },
+    {
+      "id": "1008",
+      "favorito": true,
+      "nome": "Interestelar",
+      "genero": "Ficção Científica"
+    },
+    {
+      "id": "1009",
+      "favorito": true,
+      "nome": "A Origem",
+      "genero": "Ficção Científica"
+    },
+    {
+      "id": "1010",
+      "favorito": false,
+      "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+      "genero": "Fantasia"
+    },
+    {
+      "id": "1011",
+      "favorito": false,
+      "nome": "Gladiador",
+      "genero": "Ação"
+    },
+    {
+      "id": "1012",
+      "favorito": false,
+      "nome": "O Lobo de Wall Street",
+      "genero": "Biografia"
+    },
+    {
+      "id": "1013",
+      "favorito": false,
+      "nome": "Vingadores: Ultimato",
+      "genero": "Ação"
+    },
+    {
+      "id": "1014",
+      "favorito": false,
+      "nome": "Jogos Vorazes",
+      "genero": "Aventura"
+    },
+    {
+      "id": "1015",
+      "favorito": false,
+      "nome": "Pantera Negra",
+      "genero": "Ação"
+    },
+    {
+      "id": "1016",
+      "favorito": false,
+      "nome": "Coringa",
+      "genero": "Drama"
+    },
+    {
+      "id": "1017",
+      "favorito": false,
+      "nome": "A Freira",
+      "genero": "Terror"
+    },
+    {
+      "id": "1018",
+      "favorito": false,
+      "nome": "O Chamado",
+      "genero": "Terror"
+    },
+    {
+      "id": "1019",
+      "favorito": false,
+      "nome": "Divertida Mente",
+      "genero": "Animação"
+    },
+    {
+      "id": "1020",
+      "favorito": false,
+      "nome": "Toy Story",
+      "genero": "Animação"
+    },
+    {
+      "id": "1021",
+      "favorito": false,
+      "nome": "Shrek",
+      "genero": "Animação"
+    },
+    {
+      "id": "1022",
+      "favorito": false,
+      "nome": "Velozes e Furiosos 7",
+      "genero": "Ação"
+    },
+    {
+      "id": "1023",
+      "favorito": true,
+      "nome": "O Poderoso Chefão",
+      "genero": "Crime"
+    },
+    {
+      "id": "1024",
+      "favorito": false,
+      "nome": "Harry Potter e a Pedra Filosofal",
+      "genero": "Fantasia"
+    },
+    {
+      "id": "1025",
+      "favorito": false,
+      "nome": "Frozen: Uma Aventura Congelante",
+      "genero": "Animação"
+    },
+    {
+      "id": "1026",
+      "favorito": false,
+      "nome": "O Rei Leão",
+      "genero": "Animação"
+    },
+    {
+      "id": "1027",
+      "favorito": false,
+      "nome": "Homem-Aranha: Sem Volta Para Casa",
+      "genero": "Ação"
+    },
+    {
+      "id": "1028",
+      "favorito": false,
+      "nome": "A Múmia",
+      "genero": "Aventura"
+    },
+    {
+      "id": "1029",
+      "favorito": false,
+      "nome": "O Exorcista",
+      "genero": "Terror"
+    },
+    {
+      "id": "1030",
+      "favorito": false,
+      "nome": "Um Sonho de Liberdade",
+      "genero": "Drama"
+    },
+    {
+      "id": "1031",
+      "favorito": false,
+      "nome": "A Lista de Schindler",
+      "genero": "Histórico"
+    },
+    {
+      "id": "1032",
+      "favorito": false,
+      "nome": "La La Land: Cantando Estações",
+      "genero": "Romance"
+    },
+    {
+      "id": "1033",
+      "favorito": false,
+      "nome": "Titanic",
+      "genero": "Romance"
+    },
+    {
+      "id": "1034",
+      "favorito": false,
+      "nome": "Deadpool",
+      "genero": "Ação"
+    },
+    {
+      "id": "1035",
+      "favorito": false,
+      "nome": "Homem de Ferro",
+      "genero": "Ação"
+    },
+    {
+      "id": "1036",
+      "favorito": false,
+      "nome": "Capitão América: O Soldado Invernal",
+      "genero": "Ação"
+    },
+    {
+      "id": "1037",
+      "favorito": false,
+      "nome": "Logan",
+      "genero": "Ação"
+    },
+    {
+      "id": "1038",
+      "favorito": false,
+      "nome": "A Bruxa",
+      "genero": "Terror"
+    },
+    {
+      "id": "1039",
+      "favorito": false,
+      "nome": "Corra!",
+      "genero": "Terror"
+    },
+    {
+      "id": "1040",
+      "favorito": false,
+      "nome": "Her",
+      "genero": "Ficção Científica"
+    },
+    {
+      "id": "1041",
+      "favorito": false,
+      "nome": "Soul",
+      "genero": "Animação"
+    },
+    {
+      "id": "1042",
+      "favorito": false,
+      "nome": "Moana",
+      "genero": "Animação"
+    },
+    {
+      "id": "1043",
+      "favorito": false,
+      "nome": "Ratatouille",
+      "genero": "Animação"
+    },
+    {
+      "id": "1044",
+      "favorito": false,
+      "nome": "Up: Altas Aventuras",
+      "genero": "Animação"
+    },
+    {
+      "id": "1045",
+      "favorito": false,
+      "nome": "Zootopia",
+      "genero": "Animação"
+    },
+    {
+      "id": "1046",
+      "favorito": false,
+      "nome": "Os Incríveis",
+      "genero": "Animação"
+    },
+    {
+      "id": "1047",
+      "favorito": false,
+      "nome": "Procurando Nemo",
+      "genero": "Animação"
+    },
+    {
+      "id": "1048",
+      "favorito": false,
+      "nome": "O Grande Truque",
+      "genero": "Mistério"
+    },
+    {
+      "id": "1049",
+      "favorito": false,
+      "nome": "A Chegada",
+      "genero": "Ficção Científica"
+    },
+    {
+      "id": "1050",
+      "favorito": false,
+      "nome": "O Jogo da Imitação",
+      "genero": "Biografia"
+    }
+  ]
+}
